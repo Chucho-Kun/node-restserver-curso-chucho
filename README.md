@@ -1,0 +1,5 @@
+Installar con 
+```
+npm install
+````
+
